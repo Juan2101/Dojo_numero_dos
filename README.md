@@ -141,5 +141,5 @@ void display_off()
 ~~~
 La función principal repite este proceso para cada estación necesaria.
 ## Link al proyecto
-* [Proyecto](https://www.tinkercad.com/things/ii2bPg36b3W-dojonumerodos/editel?sharecode=T63fPEiNc16fpuZHlCJdQruFyL89fn8W1zY9W0tXv6U)
+* [Proyecto](https://www.tinkercad.com/things/ii2bPg36b3W)
 ---
